@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import Navbar from "./Navbar";
-import "./styles/ComplaintForm.css";
+import "./styles/complaintForm.css";
 
 const ComplaintForm = () => {
   const [title, setTitle] = useState("");
