@@ -37,7 +37,7 @@
     <h3>⚙️ How to Set Up the Project</h3>
     <ol>
         <li><strong>Clone the repository:</strong>
-            <pre><code>git clone [Your-GitHub-Repository-URL]</code></pre>
+            <pre><code>git clone https://github.com/Gauri-Nagariya/college-complaint-portal.git</code></pre>
         </li>
         <li><strong>Navigate to the project directory:</strong>
             <pre><code>cd college-complaint-portal</code></pre>
@@ -57,19 +57,6 @@
             </ul>
         </li>
     </ol>
-    ---
-    <h3>👨‍👩‍👧‍👦 Our Team</h3>
-    <ul>
-        <li>Gauri Nagariya (0198CS221040)</li>
-        <li>Sapna Dahayat (0198EX221026)</li>
-        <li>Nikita Lodhi (0198CS221060)</li>
-        <li>Prabhat Yadav (0198CS221069)</li>
-    </ul>
-    <h3>🎓 Our Guide</h3>
-    <ul>
-        <li>Prof. Namita Jhende</li>
-    </ul>
 </div>
-
 </body>
 </html>
