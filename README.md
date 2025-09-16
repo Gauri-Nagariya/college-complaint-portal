@@ -1,10 +1,10 @@
 <body>
 <div class="container">
     <h1>EchoDesk: A College Complaint Portal</h1>
-    ---
+<!--     <hr> -->
     <h3>ℹ️ Overview</h3>
     <p>EchoDesk is a web-based platform designed to provide a centralized and transparent way for students to submit and track complaints within their college. It was developed to address the problem of students lacking a proper channel to systematically raise complaints related to college issues like academics, the hostel, or infrastructure. The goal is to improve transparency and response time by providing a systematic way for administrators to manage and resolve student concerns.</p>
-    ---
+    <hr>
     <h3>✨ Features</h3>
     <ul>
         <li><strong>User Roles:</strong> The system has a secure, role-based login for both students and administrators.</li>
@@ -13,7 +13,7 @@
         <li><strong>Data Persistence:</strong> All complaint data is stored in a database and is retained even after users log out or the system is reloaded.</li>
         <li><strong>User Interface:</strong> The platform has an easy-to-use and responsive UI that works on all major browsers.</li>
     </ul>
-    ---
+   <hr>
     <h3>💻 Technology Stack</h3>
     <p>This project is built as a full-stack web application using the MERN stack. The development environment used was VS Code.</p>
     <h4>Frontend:</h4>
@@ -33,7 +33,7 @@
         <li><strong>Cors</strong></li>
         <li><strong>Nodemon</strong></li>
     </ul>
-    ---
+   <hr>
     <h3>⚙️ How to Set Up the Project</h3>
     <ol>
         <li><strong>Clone the repository:</strong>
